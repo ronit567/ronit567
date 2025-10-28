@@ -1,7 +1,7 @@
 ![Header](github-header-banner.png)
 
 # 💫 About Me:
- 🔭 Currently working on B.A.L.L.I.F: A research project to produce reproducible framework for auditing fairness in LLM-driven legal mini-trials to test bias.<br> 🧑‍🤝‍🧑 Looking to work more on Computer Vision projects in the healthcare industry.<br> 🌱 Learning PyTorch and TensorFlow<br> ⚡ Fun fact I have my 🟣 belt in Brazilian Ju Jitsu<br><br>
+ 🔭 Currently working on B.A.L.L.I.F: A research project to produce reproducible framework for auditing fairness in LLM-driven legal       mini-trials to test bias.<br> 🧑‍🤝‍🧑 Looking to work more on Computer Vision projects in the healthcare industry.<br> 🌱 Learning PyTorch and TensorFlow<br> ⚡ Fun fact I have my 🟣 belt in Brazilian Ju Jitsu<br><br>
 
 
 ## 🌐 Socials:
